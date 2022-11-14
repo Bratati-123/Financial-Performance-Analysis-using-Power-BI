@@ -12,5 +12,7 @@ Project Goals
 4.Profit got by segment and country wise.
 Data Analysis Summary
 Here are the dashboards that I created.
+Conclusion
+Using PowerBI I was able to visualize all data in an interactive way. 
 
 
